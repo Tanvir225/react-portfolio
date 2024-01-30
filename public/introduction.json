@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "01",
+    "first_name": "Abdur",
+    "last_name": "Rahman",
+    "age": 25,
+    "nationality": "Bangladeshi",
+    "freelance": "Available",
+    "address": "Dhaka - Bangladesh",
+    "phone": "+880 1782407546",
+    "email": "tanvirrehman200@gmail.com",
+    "experience_period": "03",
+    "completed_project": "11",
+    "customer": "10",
+    "running_project": "02",
+    "experience": [
+      {
+        "_id":1,
+        "period": "2023 - present",
+        "title": "Computer Instructor",
+        "company": "Towheed Foundation",
+        "details": "As a dedicated computer instructor, I empower students with essential computer skills and ignite their creativity in web design. Through comprehensive lessons, I guide them in mastering computer basics and navigating the dynamic world of web design, "
+      },
+      {
+        "_id":2,
+        "period": "2022 - 2023",
+        "title": "Web Developer Remote",
+        "company": "Kindred Mortgage Group USA",
+        "details": "I bring expertise in crafting dynamic and visually appealing websites. My proficiency spans front-end and back-end technologies, ensuring seamless user experiences. "
+      },
+      {
+        "_id":3,
+        "period": "2022 - 2023",
+        "title": "IT Manager",
+        "company": "Pioneer Homoeo Laboratory",
+        "details": "As an accomplished IT manager, I lead with a strategic vision, ensuring seamless technology integration and optimal system performance. I consistently deliver reliable and cutting-edge technology solutions. "
+      }
+    ],
+
+    "education":[
+        {
+            "_id":1,
+            "period": 2021,
+            "title":"Bachelor in Computer Science & Technology",
+            "company":"Bangladesh University Of Business And Technology",
+            "details":"A passion for innovation, delve into algorithms, programming languages, and system design. They acquire practical skills in software development, data structures, and artificial intelligence"
+        },
+        {
+            "_id":2,
+            "period": 2016,
+            "title":"Higher Secondary",
+            "company":"Naziur Rahman College",
+            "details":"Possessing a solid foundation in science, higher secondary students delve into subjects like physics, chemistry, and mathematics. This educational background equips them with analytical thinking and problem-solving skills"
+        },
+
+        {
+            "_id":3,
+            "period": 2014,
+            "title":"Secondary School",
+            "company":"Parangonj High School",
+            "details":"Possessing a solid foundation in science, higher secondary students delve into subjects like physics, chemistry, and mathematics. This educational background equips them with analytical thinking and problem-solving skills."
+        }
+
+    ]
+  }
+]

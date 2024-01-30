@@ -1,0 +1,42 @@
+[
+    {
+        "_id": 1,
+        "skill":"HTML",
+        "progress": 85
+    },
+    {
+        "_id": 2,
+        "skill":"Tailwind CSS",
+        "progress": 80
+    },
+    {
+        "_id": 3,
+        "skill":"JavaScript",
+        "progress": 75
+    },
+    {
+        "_id": 4,
+        "skill":"React",
+        "progress": 72
+    },
+    {
+        "_id": 5,
+        "skill":"Express JS",
+        "progress": 70
+    },
+    {
+        "_id": 6,
+        "skill":"Mongodb",
+        "progress": 75
+    },
+    {
+        "_id": 7,
+        "skill":"Next Js",
+        "progress": 55
+    },
+    {
+        "_id": 8,
+        "skill":"Wordpress",
+        "progress": 85
+    }
+]

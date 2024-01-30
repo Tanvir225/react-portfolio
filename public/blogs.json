@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Tech Tutorials Galore",
+    "description": "Share step-by-step tutorials on cutting-edge web development technologies, frameworks, or languages. Cover everything from beginner to advanced topics, providing code snippets and practical examples.",
+    "image":"../src/assets/blog1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Responsive Web Design Showcase",
+    "description": "Explore the world of responsive design by showcasing your own projects. Discuss the challenges faced and solutions implemented, providing insights into creating websites that look great on any device.",
+    "image":"../src/assets/blog2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Developer's Toolbox",
+    "description": "Review and recommend development tools, libraries, and resources that have been instrumental in your projects. Share insights into how these tools can enhance efficiency and improve the development workflow.",
+    "image":"../src/assets/blog3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Building Scalable and Performant Web Apps",
+    "description": "Dive into the world of scalability and performance optimization. Share tips, best practices, and real-world experiences in developing web applications that can handle heavy traffic loads efficiently.",
+    "image":"../src/assets/blog4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "The Journey of a Passion Project",
+    "description": "Document the development journey of a personal or open-source project. Discuss the challenges faced, decisions made, and the evolution of the project over time. This provides a personal touch to your portfolio",
+    "image":"../src/assets/blog5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Designing Accessible Websites",
+    "description": "Explore the importance of web accessibility and share practical tips and techniques for designing and developing websites that are inclusive to all users, including those with disabilities. Discuss the impact of accessible design on user experience.",
+    "image":"../src/assets/blog6.jpg"
+  }
+]

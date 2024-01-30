@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "Biker Zone",
+    "Language": "HTML Tailwind-Css",
+    "link": "https://tanvir225.github.io/biker-shop",
+    "description": "A responsive bikers shop website made using HTML and Tailwind CSS framework.",
+    "image": "../src/assets/biker.jpg",
+    "keyword":"Tailwind-Css"
+  },
+
+  {
+    "id": 2,
+    "name": "Gamer Zone",
+    "Language": "HTML Tailwind-Css",
+    "link": "https://tanvir225.github.io/gamer-zone",
+    "description": "A gaming community website where users can share their games with others and discuss about the latest trends in the gaming world.",
+    "image": "../src/assets/gamer.jpg",
+    "keyword":"Tailwind-Css"
+  },
+  {
+    "id": 3,
+    "name": "Flower Shop",
+    "Language": "HTML Tailwind-Css",
+    "link": "https://tanvir225.github.io/flower-shop",
+    "description": "A simple flower shop website created with the help of HTML and Tailwind CSS framework.",
+    "image": "../src/assets/flower.jpg",
+    "keyword":"Tailwind-Css"
+  },
+  {
+    "id": 4,
+    "name": "Fruit Shop",
+    "Language": "HTML Tailwind-Css",
+    "link": "https://tanvir225.github.io/fruit-shop",
+    "description": "An ecommerce fruit shopping site built in HTML and Tailwind CSS.",
+    "image": "../src/assets/fruit.jpg",
+    "keyword":"Tailwind-Css"
+  },
+  {
+    "id": 5,
+    "name": "Tea House",
+    "Language": "HTML Tailwind-Css",
+    "link": "https://tanvir225.github.io/tea-house",
+    "description": "A virtual tea house where you can order your favorite teas and drinks.",
+    "image": "../src/assets/tea.jpg",
+    "keyword":"Tailwind-Css"
+  },
+  {
+    "id": 6,
+    "name": "Personal Portfolio",
+    "Language": "HTML Tailwind-Css",
+    "link": "https://tanvir225.github.io/portfolio",
+    "description": "My personal portfolio website showcasing my skills and projects.",
+    "image": "../src/assets/port.jpg",
+    "keyword":"Tailwind-Css"
+  },
+  {
+    "id": 7,
+    "name": "Geometry Genius",
+    "Language": "HTML Tailwind-Css JavaScript",
+    "link": "https://tanvir225.github.io/geometry-genius",
+    "description": "A math game to test your knowledge about different geometric shapes.",
+    "image": "../src/assets/geometry.jpg",
+    "keyword":"JavaScript"
+  },
+  {
+    "id": 8,
+    "name": "Simple Bank",
+    "Language": "HTML Tailwind-Css JavaScript",
+    "link": "https://tanvir225.github.io/baper-bank",
+    "description": "A simple banking system for users to deposit, withdraw, transfer money or check their account balance.",
+    "image": "../src/assets/bank.jpg",
+    "keyword":"JavaScript"
+  },
+  {
+    "id": 9,
+    "name": "Summer Sale",
+    "Language": "HTML Tailwind-Css JavaScript",
+    "link": "https://tanvir225.github.io/summer-sale",
+    "description": "An ecommerce site for a summer sale with discounted products.",
+    "image": "../src/assets/summer.jpg",
+    "keyword":"JavaScript"
+  },
+  {
+    "id": 10,
+    "name": "Stop Watch",
+    "Language": "HTML Tailwind-Css JavaScript",
+    "link": "https://tanvir225.github.io/stopwatch",
+    "description": "A simple stop watch application built using HTML, CSS & Javascript.",
+    "image": "../src/assets/hourglass.jpg",
+    "keyword":"JavaScript"
+  },
+
+  {
+    "id": 11,
+    "name": "Donation Campaign",
+    "Language": "HTML Tailwind-Css React",
+    "link": "https://hysterical-pin.surge.sh",
+    "description": "A web app to create and manage donation campaigns. Users can set up their own campaigns, add supporters and track the progress of the fundraising.",
+    "image": "../src/assets/donation.jpg",
+    "keyword":"React"
+  },
+  {
+    "id": 12,
+    "name": "Dragon News",
+    "Language": "HTML Tailwind-Css React Firebase",
+    "link": "https://dragon-news-cb3be.web.app",
+    "description": "An app to share news articles with friends or family members. It uses firebase for real time database and authentication.",
+    "image": "../src/assets/news.jpg",
+    "keyword":"React"
+  },
+
+  {
+    "id": 13,
+    "name": "Knowledge Cafe",
+    "Language": "HTML Tailwind-Css React",
+    "link": "https://acid-cap.surge.sh",
+    "description": "A virtual cafe where you can learn new things by buying coffee and donuts.",
+    "image": "../src/assets/knowledge.jpg",
+    "keyword":"React"
+  },
+  {
+    "id": 14,
+    "name": "Career Hub",
+    "Language": "HTML Tailwind-Css React",
+    "link": "https://taboo-oranges.surge.sh",
+    "description": "Find your dream job with Career hub! It is a platform that connects job seekers to potential employers based on their skills and interests.",
+    "image": "../src/assets/news.jpg",
+    "keyword":"React"
+  },
+  {
+    "id": 14,
+    "name": "Automotive Shop",
+    "Language": "HTML Tailwind-Css React Express Firebase",
+    "link": "https://automotive-shop-d08aa.web.app",
+    "description": "An ecommerce website for an automotive shop with user authentication, shopping cart,admin dashboard etc.",
+    "image": "../src/assets/automotive.jpg",
+    "keyword":"Full Website"
+  },
+  {
+    "id": 15,
+    "name": "Hire Sync",
+    "Language": "HTML Tailwind-Css React Express Firebase",
+    "link": "https://hire-sync-96ea5.web.app",
+    "description": "An application for finding a job or hiring someone to do the job.",
+    "image": "../src/assets/job.jpg",
+    "keyword":"Full Website"
+  },
+  {
+    "id": 16,
+    "name": "Study Group",
+    "Language": "HTML Tailwind-Css React Express Firebase",
+    "link": "https://study-group-83e71.web.app",
+    "description": "A platform that allows students to find study groups based on their interests.",
+    "image": "../src/assets/knowledge.jpg",
+    "keyword":"Full Website"
+  }
+]
